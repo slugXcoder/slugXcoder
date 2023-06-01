@@ -1,7 +1,7 @@
 
 
 
-<img align="center" src="https://github.com/slugXcoder/slugXcoder/blob/main/output2.png" />
+<img align="center" src="" />
 
 
 ### Hi there, I'am Rohit 👋
@@ -171,6 +171,6 @@ Here are some ideas to get you started:
 
 
 
-<img align="center" src="[https://github.com/slugXcoder/slugXcoder/blob/main/footer.png">
+<img align="center" src="https://github.com/slugXcoder/slugXcoder/blob/main/footer.png">
 
 
