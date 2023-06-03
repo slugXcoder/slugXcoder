@@ -1,7 +1,7 @@
 
 
 
-<img align="center" src="https://github.com/slugXcoder/slugXcoder/assets/69116713/3eb97ac7-a384-4efd-9c5c-fdce22024509" />
+<img align="center" src="https://github.com/slugXcoder/slugXcoder/blob/main/ROHIT SINGH.png" />
 
 
 
