@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<a href="https://www.linkedin.com/in/Rohit-singh-bb50a81a5" target="_blank">
+<a href="https://www.linkedin.com/in/rohit-singh-1422a2184" target="_blank">
   <img align="left" alt="Rohit's LinkdeIn" width="50px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
 </a>
 
-<a href="https://www.instagram.com/Rohit_._s/" target="_blank">
+<a href="https://www.instagram.com/sugar.boy.10/" target="_blank">
   <img align="left" alt="Rohit's Instagram" width="50px" src="https://cdn2.iconfinder.com/data/icons/instagram-new/512/instagram-logo-color-512.png" />
 </a>
 
