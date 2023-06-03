@@ -1,7 +1,8 @@
 
 
 
-<img align="center" src="" />
+<img align="center" src="https://github.com/slugXcoder/slugXcoder/assets/69116713/3eb97ac7-a384-4efd-9c5c-fdce22024509" />
+
 
 
 ### Hi there, I'am Rohit 👋
